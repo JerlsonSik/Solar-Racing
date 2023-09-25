@@ -11,5 +11,6 @@ I created this project by using python, Google API and matplotlib
 - Plot result by graph for viewing the best solution
 
 ## What I learned:
-- I learned how to collaborate with a big group of people (more than 50 in the team). By working on this project, I knew how to communicate effectively to finish up work.
-- **Solving real-world problem**. 
+- **Team working**: I worked with a big group of people (more than 50 in the team). By working on this project, I knew how to communicate effectively to finish up work.
+- **Solving real-world problem**: At first, I was only told to find out what was the beset grouping solution for the solar cell. By then, I figured out the formula by looking into online resources and implemented all those calculations into the code.
+- **Programming skills**: I used python as the main language to finish up the project. This is a great opportunity for me to enhance my python coding skills by implementing calculations, connecting to API and also by plotting graphs. 
