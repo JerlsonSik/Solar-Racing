@@ -9,3 +9,7 @@ I created this project by using python, Google API and matplotlib
 - User can interact with google maps by inputting their current address for calculation
 - Calculation of solar insolation based on formula that are written in the code 
 - Plot result by graph for viewing the best solution
+
+## What I learned:
+- I learned how to collaborate with a big group of people (more than 50 in the team). By working on this project, I knew how to communicate effectively to finish up work.
+- **Solving real-world problem**. 
